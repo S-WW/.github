@@ -8,5 +8,5 @@
 ### [🐶 – cv (🔗)](https://github.com/cv003)
 * basically everything on the github
 * probably more
-### [blank (🔗)]([https://github.com/cv003](https://www.valvesoftware.com/en/))
+### [blank (🔗)](https://www.valvesoftware.com/en/)
 * blank
