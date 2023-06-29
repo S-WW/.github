@@ -6,6 +6,7 @@
 * domain setup
 * organisation creator
 ### 🐶 – cv ([🔗](https://github.com/cv003))
-* um
+* basically everything on the github
+* probably more
 ### blank ([🔗](https://github.com/cv003))
 * blank
