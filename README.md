@@ -1,2 +1,2 @@
 # .github
-Repository description
+the organization description
