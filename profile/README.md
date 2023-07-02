@@ -10,7 +10,7 @@
 **The main info page of the SWW Organization also acting as a social media for the soggy people.**
 
 # [isita.sogfulday.today](https://isita.sogfulday.today)
-**A silly page that uses a weather API to display if it is in fact, a sogful day.**
+**A silly side project page that uses a weather API to display if it is in fact, a sogful day.**
 
 
 # CREDITS
