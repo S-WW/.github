@@ -7,7 +7,11 @@
 **the organization behind soggy domains**
 
 # [sww.sogfulday.today](https://sww.sogfulday.today)
-**the main info page of the SWW Organization also acting as a social media for the soggy people.**
+**The main info page of the SWW Organization also acting as a social media for the soggy people.**
+
+# [isita.sogfulday.today](https://isita.sogfulday.today)
+**A silly page that uses a weather API to display if it is in fact, a sogful day.**
+
 
 # CREDITS
 ### [🐱 – mat (🔗)](https://github.com/mat5555 "great value nev")
