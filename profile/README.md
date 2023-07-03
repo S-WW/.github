@@ -1,10 +1,8 @@
 
 # Welcome to the SWW Github organization
-![banner](/profile/img/banner.png)
-
-# The SWW Organization
-
 **the organization behind soggy domains**
+
+![banner](/profile/img/banner.png)
 
 # [sww.sogfulday.today](https://sww.sogfulday.today)
 **The main info page of the SWW Organization also acting as a social media for the soggy people.**
